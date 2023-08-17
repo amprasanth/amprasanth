@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## i am prasanth
-
+## i am currently learning HTML,CSS,Javascript
 <!--
 **amprasanth/amprasanth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
