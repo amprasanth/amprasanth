@@ -4,6 +4,7 @@
 ## i am currently learning HTML,CSS,Javascript
 ## i am studying in IIT Madras Bs data science & applications.
 
+## how to reach me amprasanth05@gmail.com
 <!--
 **amprasanth/amprasanth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
