@@ -6,6 +6,7 @@
 
 ## how to reach me amprasanth05@gmail.com
 ## studying in MIT(Madras Institute of Technology)
+## Wish to become a full stack developer *
 <!--
 **amprasanth/amprasanth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
