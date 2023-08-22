@@ -5,6 +5,7 @@
 ## i am studying in IIT Madras Bs data science & applications.
 
 ## how to reach me amprasanth05@gmail.com
+## studying in MIT(Madras Institute of Technology)
 <!--
 **amprasanth/amprasanth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
